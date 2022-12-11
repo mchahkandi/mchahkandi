@@ -2,8 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:400px;" />
 </div>  
   
+  
+  
 
-### <div align="center">I'm Mohammad, software engineering student by day 🌞, full-stack developer by night 🌚</div>  
+## <div align="center">I'm Mohammad, software engineering student by day 🌞, full-stack developer by night 🌚</div>  
   
 
 - 🔭 I’m currently working on [laravel registration system](https://github.com/alpachinof/laravel-registration-system)  
