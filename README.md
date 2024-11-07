@@ -8,10 +8,10 @@
 # <div align="center">I'm Mohammad, software engineering student by day 🌞, full-stack developer by night 🌚</div>  
   
 
-- 🔭 I’m currently working on [vuelet(vue rtl dashboard)](https://github.com/alpachinof/vuelet)  
+- 🔭 I’m currently working on nothing
   
 
-- 🌱 I’m currently learning Laravel and Typescript  
+- 🌱 I’m currently learning Laravel and GoLang  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
