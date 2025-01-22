@@ -9,9 +9,6 @@ I enjoy tackling challenging problems and expanding my skill set in technologies
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mchahkandi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mchahkandi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mchahkandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
